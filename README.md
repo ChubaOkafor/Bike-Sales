@@ -1,4 +1,4 @@
-# 💰 Bike-Sales
+# 🚲 Bike-Sales
 
 ## Table of Contents
 - [Project Overview](#project-overview)
